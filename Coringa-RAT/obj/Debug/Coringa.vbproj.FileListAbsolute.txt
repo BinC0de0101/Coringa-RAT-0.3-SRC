@@ -1,0 +1,51 @@
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\bin\Debug\Coringa-RAT 0.3.exe.config
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\bin\Debug\Coringa-RAT 0.3.exe
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\bin\Debug\Coringa-RAT 0.3.pdb
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\bin\Debug\Coringa-RAT 0.3.xml
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\bin\Debug\Mono.Cecil.dll
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\bin\Debug\Notificação.dll
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.Cap.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmClipboard.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmConexão.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmCriarAntiProcess.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmDownloadMine.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmInformações.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmJanelas.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmMineGerenciadorArquivos.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmMsgBox.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmPesonalizaçao.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmPortas.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmProcessos.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmProgramasInstalados.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmAutenticacao.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmServidor.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmServiços.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmSkype.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmStartUp.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmTerror.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmVisualizar.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmWebCam.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmChate.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmCreditos.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmDownload.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmGerenciadorArquivos.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmMain.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmEnviarURL.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmKeylogger.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.Frm_Notificação.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.Resources.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmBlocoDeNotas.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmSenhas.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmRegedit.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmRegeditEditor.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmDesktop.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmScrypt.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmCMDd.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa.FrmUpload.resources
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa-RAT 0.3.exe
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa-RAT 0.3.xml
+C:\Users\mr\Desktop\سورسات اصليه بدون تلغيم\SRC - Coringa-RAT 0.3\Coringa-RAT\obj\Debug\Coringa-RAT 0.3.pdb
